@@ -1,7 +1,7 @@
 {
   "name": "notifq",
   "version": "0.1.0",
-  "homepage": "https://notifq.github.io/notifq",
+  "homepage": "https://notifq.github.io/.github",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
