@@ -40,7 +40,7 @@
   text-align: left;
 	border-radius:16px;
   z-index: 10; 
-  margin: 0 auto;
+  margin: 0 20px;
   
   -webkit-animation: msg-zoom-in 0.8s;
   animation: msg-zoom-in 0.8s; 
