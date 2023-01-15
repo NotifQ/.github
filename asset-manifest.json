@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/notifq/static/css/main.a747947b.css",
-    "main.js": "/notifq/static/js/main.3f1616fc.js",
-    "static/media/notifq.svg": "/notifq/static/media/notifq.8b20aba59e2562ac990459f1142172ca.svg",
-    "index.html": "/notifq/index.html",
-    "main.a747947b.css.map": "/notifq/static/css/main.a747947b.css.map",
-    "main.3f1616fc.js.map": "/notifq/static/js/main.3f1616fc.js.map"
+    "main.css": "/.github/static/css/main.a747947b.css",
+    "main.js": "/.github/static/js/main.ccfc1bb3.js",
+    "static/media/notifq.svg": "/.github/static/media/notifq.8b20aba59e2562ac990459f1142172ca.svg",
+    "index.html": "/.github/index.html",
+    "main.a747947b.css.map": "/.github/static/css/main.a747947b.css.map",
+    "main.ccfc1bb3.js.map": "/.github/static/js/main.ccfc1bb3.js.map"
   },
   "entrypoints": [
     "static/css/main.a747947b.css",
-    "static/js/main.3f1616fc.js"
+    "static/js/main.ccfc1bb3.js"
   ]
 }
